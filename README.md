@@ -7,5 +7,16 @@ Choose your flavor:
 
 🌐 Flask Web App – For instant browser-based testing
 
+Project Description :
+
+Built a deep learning-based system to classify food items from input images and display their corresponding nutritional information.
+- It Utilizes transfer learning with the VGG16 model, along with fine-tuning to improve model performance on the target dataset.
+-Applied image augmentation techniques to enhance training robustness and reduce overfitting.
+-Supported multiple user interfaces for flexible access and testing:
+      - Tkinter-based desktop GUI
+      - Flask-powered web application
+      - Command-line testing interface
+- Designed the system for both end-user usability and developer flexibility.
+
 Perfect for health tracking, dietary planning, or just geeking out over AI-powered food recognition. Snap, detect, and know your food — faster than you can say “extra cheese, please!” 🍕
 
